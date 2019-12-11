@@ -1,6 +1,6 @@
 # Moodie_K_MIS665_Final_Project
 
-Presentation Video Link: 
+Presentation Video Link:  
 https://www.screencast.com/t/cp6HwJxk
 
 NB Viewer link: 
